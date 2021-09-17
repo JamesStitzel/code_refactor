@@ -1,7 +1,8 @@
 # code_refactor
 
+![Image of Horiseon landing page](./assets/images/ReadmeImage.png)
 
-## Motivation
+## My Motivation
 My motivation in making this page was to optimize the code and make it easier to read and therefore easier to debug
 
 ## Project aim

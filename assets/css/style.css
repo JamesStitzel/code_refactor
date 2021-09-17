@@ -85,17 +85,17 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*Combining the classes*/
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Combining the classes*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*Combining the classes*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
